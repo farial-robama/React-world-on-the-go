@@ -3,3 +3,11 @@
     grid-template-columns: repeat(3,1fr);
     gap: 20px;
 }
+
+.visited-flags-container {
+  display: grid; 
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 15px;
+  max-width: 400px;  
+  margin-right: 10px;
+}
